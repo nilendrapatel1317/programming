@@ -1,0 +1,41 @@
+SQL> CL SCR
+SQL> ALTER TABLE CUSTOMER
+  2  ADD ADDRESS VARCHAR(30) NOT NULL;
+
+Table altered.
+
+SQL> ALTER TABLE CUSTOMER
+  2  RENAME COLUMN ADDRESS TO ADDRESS;
+ALTER TABLE CUSTOMER
+*
+ERROR at line 1:
+ORA-00957: duplicate column name 
+
+
+SQL> ALTER TABLE PRODUCT
+  2  RENAME COLUMN PRICE TO COST;
+
+Table altered.
+
+SQL> DESC PRODUCT;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ PID                                       NOT NULL CHAR(3)
+ PNAME                                     NOT NULL VARCHAR2(30)
+ COST                                      NOT NULL NUMBER(7,2)
+ TYPE                                      NOT NULL VARCHAR2(20)
+ CID                                                CHAR(2)
+
+SQL> ALTER TABLE CUSTOMER
+  2  DROP COLUMN ADDRESS;
+
+Table altered.
+
+SQL> DESC CUSTOMER;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ CID                                       NOT NULL CHAR(2)
+ CNAME                                     NOT NULL VARCHAR2(30)
+ CNO                                       NOT NULL NUMBER(10)
+
+SQL> spool off;

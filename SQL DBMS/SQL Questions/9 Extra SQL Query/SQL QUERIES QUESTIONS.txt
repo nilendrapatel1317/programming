@@ -1,0 +1,258 @@
+1. WAQTD EMPLOYEE NAME WHOSE SALARY IS GREATER THAN 3000 AFTER THE HIKE OF 10%.
+2. WAQTD EMPLOYEE NAME ALONG WITH ANNUAL SALARY WITH 10% HIKE IF THE EMPLOYEE WORKING UNDER 7566.
+3. WAQTD EMPLOYEE DETAILS WHOSE NAME STARTS WITH 'K' AND ENDS WITH 'S'.
+4. WAQTD EMPLOYEE DETAILS ALONG WITH MONTHLY SALARY WITH 10% DEDUCTION.
+5. WAQTD EMPLOLYEE DETAILS WHO HIRED BETWEEN 80-87 AND NAMES STARTS WITH CONSONANTS.
+6. WAQTD NAMES STARTS WITH VOWELS AND ENDS WITH CONSONANTS.
+7. WAQTD NAMES OF EMPLOYESS WHO WORKING AS A MANAGER.
+8. WAQTD EMPLOYEE NUMBER AND NAME WHO'S EARNING COMMISSION.
+9. DISPLAY THE NAMES OF THE EMPLOYEES WHO ARE WORKING IN DEPT 10 AND 20 .
+10.WAQTD NAMES OF ALL THE EMPLOYEES WHO ARE WORKING AS CLERKS AND EARNING A SALARY MORE THAN 3000.
+11.DISPLAY THE ENAME OF THE EMPLOYEES WHO ARE WORKING AS CLERKS , SALESMAN OR ANALYST AND DRAWING A SALARY MORE THAN 2500.
+12.DISPLAY THE LIST OF EMPLOYEES WHO HAVE JOINED A COMPANY BEFORE 1980 OR AFTER 1988.
+13.DISPLAY THE LIST OF EMPLOYEES WHO HIRED DURING BEFORE 1982 AND AFTER 1985.
+14.WAQTD THE NAMES OF THE EMPLOYEES WORKING IN DEPT 10,20,40 OR EMPLOYEE WORKING AS CLERK,SALESMAN,ANALYST.
+15.WAQTD THE NAME OF THE EMPLOYEES WHOSE NAME STARTS WITH 'S' AND HAVING FIVE CHARACTERS.
+16.WAQTD THE NAME OF THE EMPLOYEES WHO ARE NOT GET COMM AND WORKING DEPTNO 10,20.
+17.WAQTD DETAILS OF THE EMPLOYEES ALONG WITH ANNUAL SALARY IF THEY ARE WORKING DEPT MANAGER AS 20,30 AND THEIR ANNUAL SALARY GREATER THAN 12000.
+18.WAQTD DETAILS OF EMPLOYEES WHO ARE HIRED FEB.
+19.WAQTD DETAILS OF EMPLOYEES ALONG WITH ANNUAL SALARY WHOSE NAME STARTS 'M' AND LAST BUT FIRST CHARACTER 'S'.
+20.WAQTD NAME OF EMPLOYEES  WHOSE NAME STARTS VOWELS AND NOT HAVE REPORTING MANAGER.
+21.WAQTD NAME AND HIREDATE OF EMPLOYEES WHO ARE HIRED BETWEEN JAN-81 AND DEC-81
+22.WAQTD SALESMAN DETAILS.
+23.WAQTD DEPT DETAILS OF 10,20,30.
+24.WAQTD PLACE OF PRESIDENT.
+25.WAQTD THE DETAILS OF EMPLOYESS ALONG WITH HALF TERM SALARY WHO EARNIG SAL GREATER THAN 5000 AND NAME STARTS WITH VOWELS.
+26.WAQTD DETAILS OF EMPLOYESS WHO ARE NOT WORKING AS A MANAGER AND HAVING SAL IN BETWEEN 1000-2000.
+27.WAQTD LIST OF EMPLOYEES WITH ANNUAL SALARY WHOSE ANNUAL SALARY IS 4LPA.
+28.WAQTD NAME OF EMPLOYEES WHO IS WORKING AS A CLERKS OR PRESIDENT.
+29.WAQTD LIST OF EMPLOYEES WHOSE SALARY RANGE BETWEEN 0-1400.
+30.WAQTD NAMES OF EMPLOYEES WHO'S WORKING IN DEPT 10 AND HAVING SECOND LETTER AS 'M'.
+31.WAQTD THE MAXIMUM SALARY OF DEPT 30 AND 20.
+32.WAQTD NAME OF THE EMPLOYEE WHO'S GETTING SALARY LESS THAN SMITH.
+33.WAQTD NUMBER OF TIMES THE SALARIES PRESENT IN EMPLOYEE TABLE.
+34.WAQTD MINIMUM SALARIES GIVEN TO AN EMPLOYEE WORKING IN EACH DEPT.
+35.LIST ALL THE DEPT NAME THAT ARE HAVING ATLEAST 3 EMPLOYEES BUT NOT MORE THAN 5 EMPLOYEES IN IT.
+36.WAQTD NUMBER OF EMPLOYEES WORKING IN EACH DEPARTMENT EXCEPT SALESMAN.
+37.WAQTD DETAILS OF EMPLOYEES WHO ARE GETTING THE REPEATED SALARY.
+38.WAQTD NUMBER OF EMPLOYESS WHO ARE HAVING SAME NAME .
+39.WAQTD AVG SALARY NEEDED TO PAY ALL THE EMPLOYEES IN EACH DEPT EXCLUDING THE EMPLOYEES OF DEPT 10.
+40.WAQTD NAME AND TOTAL SALARY ODF THE EMPLOYEES IF THE EMPLOYEES ARE EARNING MORE THAN 2500.
+41.DISPLAY LOCATION AND DNAME OF EMPLOYEE WHO ARE WORKING AS PRESIDENT WITH 1500 SALARY.
+42.WAQTD ALL THE EMPLOYEES WHOSE JOB NOT SAME AS SCOTT AND SALARY IS GREATER THAN ALLEN.
+43.LIST DEPT NAME HAVING ATLEAST 3 SALESMAN.
+44.DISPLAY ALL THE EMPLOYEES WHO'S DEPT NAME ENDS WITH 'S'.
+45.WAQTD JOB AND MAX SAL OF EMPLOYEE IN EACH JOB IF THE MAX SAL EXCEEDS 3000 ON EACH DEPT.
+46.WAQTD DEPT NAME WHO'S HAVING HIGHEST COMMISSION.
+47.WAQTD THE EMPLOYEE NAME WHOSE DEPT NAME HAS 2ND CHARACTER AS 'O'.
+48.WAQTD NAMES OF THE EMPLOYEES EARNING GREATER THAN MILLER.
+49.WAQTD NAME AND HIREDATE OF THE EMPLOYEES IF THE EMPLOYEE WAS HIRED AFTER JONES.
+50.WAQTD ALL THE DEATILS OF EMPLOYEES WORKING AS SALESMAN IN THE DEPT 20 ABD EARNING COMM MORE THAN SMITH AND HIRED AFTER KING.
+51.WAQTD NAMES OF THE EMPLOYEES EARNING MORE THAN SMITH IN SALES DEPT.
+52.WAQTD DETAILS OF THE EMPLOYEES WORKING AS ANALYST IN THE LOCATION DALLAS.
+53.DISPLAY ALL THE EMPLOYEES WHOSE LOCATION NAME ENDING WITH 'S'.
+54.WAQTD NAME , ANNUAL SALARY OF THE EMPLOYEES IF THEIR ANNUAL SALARY IS MORE THAN ALL THE MANAGER.
+55.WAQTD DETAILS OF EMPLOYESS WHOSE HIREDATE GREATER THAN SALESMAN.
+56.WAQTD THE PRESIDENT SALARY.
+57.WAQTD THE COUNT OF EMP IN EACH DEPT.
+58.WAQTD THE DNAME OF EMP OF EACH DEPT.
+59.WAQTD SALARY GREATER THAN ALLEN AND SMITH.
+60.WAQTD DETAILS OF AN EMPLOYEE WHOSE SALARY IS GREATER THAN ALLEN AFTER THE HIKE OF 10%.
+61.WAQTD DEPARTMENT NAME OF THE EMPLOYEES WHO ARE HIRED AFTER TEH ALLEN INTO SALES DEPARTMENT.
+62.WAQTD JOINED DATE AND REPOTRTING MANAGER NUMBER IF AN EMPLOYEE WORKING IN BOSTON.
+63.WAQTD NAMES AND JOB OF AN EMPLOYEES IN EACH JOB IF THERE ARE TWO EMPLOYEES NAME SHOULD STARTS WITH 'S' OR 'P'.
+64.WAQTD NO OF EMPLOYEES ARE WORKING IN EACH DEPARMENT IN THE  CHICAGO.
+65.WAQTD EMP NAME, JOB, LOCATION OF ALL EMPLOYEES WHO ARE WORKING AS A MANAGER AND WORKS AT CHICAGO.
+66.LIST EMPLOYEES FROM SALES AND RESEARCH DEPARTMENT HAVING ATLEAST 2 REPORTING EMPLOYEES.
+67.DISPLAY THE LOCATION OF ALL THE DEPARTMENTS WHICH HAVE EMPLOYEES JOINED IN THE YEAR 81.
+68.WAQTD NAME OF THE EMPLOYEES EARNING SALARY MORE THAN THE ANALYST.
+69.WAQTD NAME OF THE EMPLOYEES IF THE EMPLOYEE EARNS SALARY LESS THAN ATLEAST A MANAGER.
+70.WAQTD EMP NAMES IF EMPLOYEES ARE HIRED AFTER ALL THE EMPLOYEES OF DEPT 30.
+71.WAQTD DETAILS IF THE EMPLOYEES WORKING IN NEWYORK OR DALLAS.
+72.WAQTD LOC OF THE EMPLOYEES IF THEY EARN COMISSION IN DEPT 20.
+73.WAQTD ALL THE DETAILS OF EMPLOYEES WORKING IN THE SAME DESIGNATION AS JONES AND WORKS IN LOCATION CHICAGO.
+74.WAQTD NAMES OF THE EMPLOYEES WHO EARNING MORE THAN SCOTT.
+75.WAQTD NUMBER OF EMPLOYEES AND AVG SALARY NEEDED TO PAY THE EMPLOYEES WHOSE SALARY GREATER THAN 3000 IN EACH DEPT.
+76.WAQTD ENAME AND SAL OF ALL THE EMPLOYEE WHO ARE EARNING MORE THAN CLARK BUT LESS THAN CLARK.
+77.WAQTD DETAILS OF ALL THE EMPLOYEES WORKING IN DEPT 30 AND WORKING IN THE SAME DESIGNATION AS JAMES.
+78.WAQTD NAME OF THE EMPLOYEES WHO'S NAME STARTS WITH 'B' AND WORK IN THE SAME DESIGNATION AS CLARK.
+79.WAQTD LOC AND DNAME OF THE EMPLOYEES WHOS SALARY IS 1250 RUPEES.
+80.WAQTD DNAME AND LOC OF THE EMPLOYEES WHO'S NAME HAS CHARACTER 'M' IN IT.
+81.WAQTD DEPTNO OF THERE ARE ATLEAST 4 EMP IN EACH DEPT WHOSE NAME HAS CHARACTER 'A' IN IT.
+82.WAQTD ENAME AND SAL OF THE EMPLOYEES IF THEY ARE WORKING AS SALESMAN.
+83.WAQTD ENAME OF THE EMPLOYEES IF THEY ARE EARNING SALARY GREATER THAN 2000 AND HIRED BETWEEN 80-86 AND THEIR NAME ENDS WITH VOWELS.
+84.WAQTD NAMES AND HIREDATE OF THE EMPLOYEES IF THEY HIRED DURING THE YEAR 82-85 AND EARNING THE SALARY IN BETWEEN 1000-2800.
+85.WAQTD THE PLACE WHICH ARE DUPLICATED IN DEPT TABLE.
+86.WAQTD NUMBER OF EMPS WHO HAS HIRED ON THE SAME DAY IN EACH DEPT.
+87.WAQTD NAMES OF THE EMPLOYEES EARNING LESS THAN KING , FORD.
+88.WAQTD DETAILS OF EMPLOYEES WORKING NEWYORK OR CHICAGO.
+89.WAQTD NAME AND HIREDATE OF ALL THE EMPLOYEES WHO ARE HIRED BEFORE ANALYST.
+90.WAQTD NAMES OF EMPLOYEES EARNING MORE THAN ADAMS IN RESEARCH DEPT.
+91.DISPLAY ALL THE EMPLOYEES WHO ARE MANAGER'S HAVING 'K' AS THE LAST BUT ONE CHARACTER IN NAME AND EARNING THE SALARY IN BETWEEN 2500-2851.
+92.WAQTD DETAILS OF THE EMPLOYEES ALONG WITH ANNUAL SALARY IF EMPLOYEES ARE WORKING IN DALLAS.
+93.WAQTD NAMES OF EMPLOYEES IF THEY ARE EARNING MORE THAN TURNER IN DEPT 30 AND WORKING IN CHICAGO.
+94.WAQTD NAMES OF ALL THE EMPLOYEES WHO ARE EARNING LESS THAN ANYONE OF THE ANALAYST.
+95.DISPLAY DEPARTMENT NAME OF ALL THE EMPLOYEES WHO ARE REPORTING TO BLAKE.
+96.WAQTD HIREDATE OF EMPLOYEE WHO HIRED BEFORE MARTIN INTO SALES DEPT.
+97.WAQTD THE DEPTNO OF EMP WHO ARE WORKING IN SALES DEPT AND THEY ARE WORKING AS MANAGER.
+98.WAQTD THE LOCATION OF THE EMPLOYEES, WHOSE DOES NOT START WITH 'S' AND HIRED DURING 80-82.
+99.WAQTD AVG SALARY , MAX SALARY , TOTAL SALARY NEEDED TO PAY ALL THE EMPLOYEES IN EACH JOB EXCEPT SALESMAN.
+100. WAQTD THE NAMES OF THE EMP WHO HAS 2 A'S IN THEIR NAME AND WORKING IN DEPT 20 AND EARNIG SALARY IN THE RANGE OF 1099-1500 AND HIRED BETWEEN 85-88 INTO THE RESEARCH DEPT .
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1)WAQTD ENAME,job,commission,deptno,existing salary, new salary with the deduction of 35% only if job not equal to check and depart number either 10, 20, 30.
+  and  Hireddate greater than 1983 and commission should be less than salary.
+
+2) Write a Query to display all the details of employee if the salary ranges between 500 and 250 and department number either 10, 20, 30.
+
+3) Write a Query to display all the employee who belongs to department number 10 or 20 and comm between 1000 and 3000 and were hired during 1980 to 1983.
+
+4) Write a Query to display all the details of employee if he is not having the reporting manager.
+
+5) Write a Query to display all the employee who don’t take comm.
+
+6) Write a Query to select a name which begins with ‘A’.
+
+7) Write a Query to select a name which begins with ‘A’ and ends with ‘A’.
+
+8) Write a Query to select the name which is having atleast 2 ‘A’ in it.
+
+9) Write a Query to select the name which starts with ‘M’.
+
+9) Write a Query to match name to select string which is having substring MAD.
+
+10) List all the employee whose name is having letter ‘L’ as second character.
+
+11) List all the employee whose name is having atleast 2 L’s in it.
+
+12) List all the employee whose name having letter ‘E’ as the last but one character.
+
+13) List all the employee whose name is having letter ‘R’ in the 3rd position.
+List all the employee who are having exactly 5 character in their jobs.
+
+14) List the employee where salary is between 2000 and 3000.
+
+15) List the employee whose comm is NULL.
+    List all the employee who don’t have a reporting manager.
+    List all the salesman in department number 30.
+
+16) List all the salesman in department number 30 and having salary greater than 5000.
+
+17) List all the employees whose name starts with ‘S’ or ‘A’.
+
+18) List all the employees except those who are working in department number 10 and 20.
+
+19)List all the employees whose name doesn’t start with ‘S’.
+
+20) List all the employees who are having reporting manager in department 10.
+
+21) Write a Query to display all the details of the employee if their job is having one _ (underscore) in it.
+
+22) Write a Query to display who are having % in their names.
+
+23) Write a Query to display who are having _(underscore) as second character in their name.
+24) Write a Query to display who are having atleast 2 ‘_’ in their name.
+
+25)Write a Query to display all the employee who are getting 2500 and excess salaries’ in department number 20.
+26) Write a Query to display all the manager working in depart number 20 and 30.
+
+27) Write a Query to display all the employees whose job is manger, who don’t have reporting manager.
+
+28) Write a Query to display all the employee who are getting some comm with their designation is neither manager nor analyst.
+
+29) Write a Query to display all the manager whose annual salary is ending with 0.
+
+30) Write a Query to display all the employee who are clerk and analyst with salary greater than 1000.
+
+31)Write a Query to display all the employees having ‘E’ as the last but one character in employee name but salary having atleast 4 character.
+
+32) Write a Query to display all the employee who are joined after year 81.
+
+33) Write a Query to display all the employees who are joined in Feb.
+
+34) List the employee who are not working as manager and clerk in depart no 10 and 20 with salary in the range of 1000 to 3000.
+
+35) List the employees whose salary not in the range of 1000 to 2000 in depart no 10, 20, 30 except all salesman.
+
+36)List the depart names who are having letter ‘O’ in their locations as well as their depart names.
+
+37) Write a Query to display maximum salary, minimum salary and average salary of the organization by excluding employees who is working as salesman.
+
+38) Write a Query to display number of employees by their total salary who are working in department number 20,30.
+
+39)Write a Query to display max salary,min salary only if the name is start with A or S or M.
+
+40) Write a Query to display number of employee in department number 30 working as salesman.
+
+41) Write a Query to display average salary given to the manager of the organization.
+
+42) Write a query to display number of employee department number 10 and number of employee in department number 30.
+
+43) Write a Query to display total salary and average salary for every department.
+
+44) Write a Query to display max sal and min sal in each designation.
+
+45) Write a Query to display total salary of every department by excluding employee whose salary is greater than 3000.
+
+46) Write a Query to display job wise max salary in each department.
+
+47) Write a Query to display department number of more than 4 employees.
+
+48) Write a Query to display jobwise highest salary only if the highest salary is more than 1500.
+
+49) Write a Query to display jobwise highest salary only if the highest salary is more than 1500 excluding department number 30 
+
+50) Write a Query to display department number along with number of employees in it.
+
+ 51) Write a Query to display the department number which are having more than 4 employee in them.
+
+ 52) Write a Query to display the max salary for each of the job excluding all the employee whose name end with S.
+
+53) Write a Query to display the department number which are having more than 9000 as their departmental total salary.
+
+54) Write a Query to display department wise highest salary only if the highest salary in between 5000 and 10000 and total salary of department is below 10000.
+
+55)Write a Query to display jobwise total salary in each department only if department number 10, 20 total salary is less than 10000.
+
+56) Write a Query to display average salary of each department by excluding all employees who do not have reporting manager.
+
+57) Write a Query to display max, min, cum, average, commission and salaries for all the department which is having employee hired within 1980 and 1985.
+
+58) Write a Query to display max salary and total salary of each department by considering all the employee whose job is not ‘_’ character in it and total salary of department should not be equal than 5000 and should not be less than or equal to  9000.
+
+59) Write a Query to display all the details of employee whose designation is same as martin.
+
+60) Write a Query to display all the employee who were hired after recruiting miller.
+ 
+61) Write a Query to display all the detail of employee whose salary is greater than adam’s salary and less than scott’s salary.
+
+62) Write a Query to display name of an employee along with the annual salary if the employee is working in newyork.
+
+63) Write a Query to display all the details of employee who are working in same department of smith or allen.
+
+64) Write a Query to display duplicate names in an employee table.
+
+65) Write a Query to display all the names of the employee only, if their name starts with vowel and their location ends with vowel.
+
+66) Display Ename, job of all the managers and clerks who works in accounts and sales department
+
+67) Write a Query to display empno, sal with the hike of 35%  and departno of the employee whose salary is greater than Allen’s salary and he should be working in either NEWYORK or CHICACO.
+
+68)Write a Query to display the second maximum salary.
+
+69) Write a Query to display the third maximum salary.
+
+70)Write a Query to display all the employees who are earning more than all the managers.
+
+71)Write a Query to display all the employees who are earning more than any of the managers.
+
+72)Select empno, job and salary of all the analyst who are earning more than any of the manager.
+
+73) Select the department name and location of all the employee working for clark
+
+
+
+
+
+ 

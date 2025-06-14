@@ -1,0 +1,1 @@
+SQL>  SPOOL "D:\My Folder\Stuff\SQL DBMS\SQL QUERY NOTES\GroupByQuery.txt" APPEND;
